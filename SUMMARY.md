@@ -17,6 +17,8 @@
 	* [存量统计API]()
 	* [销量排行API]()
 	* [库管看板API]()
+		* [今日开单量和今日出库量](docs/storekeeper1.md)
+		* [待出库量](docs/storekeeper2.md)
 * [乡村销客TV频道分析API]()
 	* [产品频道API]()
 	* [客户频道API]()
