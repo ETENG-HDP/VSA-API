@@ -22,7 +22,7 @@
 ## Return
      *单位: 吨
 	 * {code:200
-	 	waitQuantityMax:50,                //最大待出库量
+	 *	waitQuantityMax:50,                //最大待出库量
 	 *  list:[{
 	 *  	waitQuantityMax:50,            //待出库量
 	 *  	customerName:OD16051910304601  //出库单号

@@ -15,6 +15,8 @@
 		* [近三月预收款和总打款对比](docs/money4.md)
 	* [销量统计API]()
 	* [存量统计API]()
+		* [选择商品](docs/stockdistribution1.md)
+		* [库存分布](docs/stockdistribution2.md)
 	* [销量排行API]()
 	* [库管看板API]()
 		* [今日开单量和今日出库量](docs/storekeeper1.md)
