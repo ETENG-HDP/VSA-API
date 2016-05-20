@@ -24,15 +24,11 @@
 	 * {
 	 *	code:200,
 	 *	vos:[{
-	 *    bilv:20                    //本周任务完成率
-	 *	  previous_bilv:136			 //上周任务完成率
 	 *	  previous_sales:34           //上周销量
-	 *	  previous_task:25			 //上周任务量
 	 *	  ref_salesPercent:20%	         //销量的百分比
 	 *	  region_id:b1059019-6e76-477a-a42a-917639a51268   //区域Id
 	 *	  region_name:西北大区                            //区域名称
 	 *	  sales_num:263.3000吨                            //本周销量
-	 *	  tasknum：31                                   //本周任务量
 	 *  }],
 	 * }
 
