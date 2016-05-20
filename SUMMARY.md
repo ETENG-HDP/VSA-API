@@ -8,7 +8,7 @@
 		* [本月销量对比](docs/yunyingtongji-3.md)
 		* [本月任务完成率对比](docs/yunyingtongji-4.md)
 		* [全年任务完成率详情](docs/yunyingtongji-5.md)
-	* [账款统计API]()
+	* [账款统计API](docs/money.md)
 		* [账户余额和今日关注](docs/money1.md)
 		* [近七天打款](docs/money2.md)
 		* [本月关注](docs/money3.md)
