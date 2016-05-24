@@ -41,6 +41,3 @@
 
 ## eg:
 http://localhost:8080/vsaapi/leader/queryyeartaskcomplitepresent?userId=07aafae5-d5c6-4240-a1ba-0f2785d92e4c&corpId=wuzoufen-f76b-4437-a3bd-9f1ab1343dfc
-
-
-

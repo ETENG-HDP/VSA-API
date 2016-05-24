@@ -30,6 +30,11 @@
 * [乡村销客TV今日关注API]()
 	* [乡村销客推送'今日关注'接口API]()
 	* [今日关注API]()
+* [乡村销客领导端分享API]()
+	* [运营统计分享提交API](docs/yuyingtongji-share1.md)
+	* [运营统计分享查询API](docs/yunyingtongji-share2.md)
+	* [账款统计分享提交API](docs/money-share1.md)
+	* [账款统计分享查询API](docs/money-share2.md)
 * [更多](docs/moreinfo.md)
 * [联系我们](docs/contact.md)
 
