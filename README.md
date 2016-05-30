@@ -1,17 +1,9 @@
 # VSA-API
-乡村销客数据分析api
+乡村销客数据分析api  
+github: https://github.com/ETENG-HDP/VSA-API  
+author :  hdp@e-teng.com  
 
-details:
-https://www.gitbook.com/book/gaojianhua/vsa-api/details  
-
-https://gaojianhua.gitbooks.io/vsa-api/content/docs/index.html
-
-github:
-https://github.com/ETENG-HDP/VSA-API
-
-author : 
-hdp@e-teng.com
-
+__目录__    
 * [Home](docs/index.md)
 * [乡村销客领导端分析API]  
 	* [运营统计首页](docs/yuyingtongji.md)  
