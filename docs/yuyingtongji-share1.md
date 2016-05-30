@@ -20,6 +20,7 @@
  	 * {
 	 * 	share_title: 高建华分享运营统计,
 	 * 	description: 运营统计分享2016-05-24 12:20:34数据,
+	 * 	share_user : robin gao, //用户名
 	 *  content_data : {
 	 *  	todayopen: 200.0000 , //今日开单量
 	 *  	weekopen:  1,400.0000 ,//本周开单量
