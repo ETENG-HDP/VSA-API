@@ -38,7 +38,7 @@
 	 *  	monthopen: 6,000.0000,//本月开单量
 	 *  	monthcompeleted: 14.00,//本月任务完成率
 	 *  	yearcompeleted: 30.57,//本年任务完成率
-	 *  	sevendateopen: {x:['05-20','05-19'],y:[30,80],monthavg:70 },//近7天开单量
+	 *  	sevendateopen: {x:['05-20','05-19'],y:[30,80],monthavg:70,month:06 },//近7天开单量
 	 *  	theremonthsaleandtask:{x:[2016-05,2016-06],//日期
 	 *  						   y1:[600,800],//销量
 	 *                             y2:[700,800]}//任务量

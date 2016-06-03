@@ -29,7 +29,7 @@
 	 *  	yearcompeleted: 30.57,//本年任务完成率
 	 *  	sevendateopen: {x:['05-20','05-19'],//日期
 	 *						y:[30,80], // 开单量
-	 *						monthavg:70 },//本月开单量平均值
+	 *						monthavg:70 ,month:06},//本月开单量平均值
 	 *  	theremonthsaleandtask:{x:[2016-05,2016-06],//日期
 	 *  						   y1:[600,800],//销量
 	 *                             y2:[700,800]}//任务量
