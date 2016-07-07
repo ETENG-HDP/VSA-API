@@ -24,8 +24,8 @@
 	 * {code:200
 	 *  message:{
 	 *  	accountAmount:40000.00, //账户余额
-	 *		accountBalance:30000.00 //资金余额
-	 *		accountRemain:10000.00   //剩余额度
+	 *	  accountBalance:30000.00 //资金余额
+	 *	  accountRemain:10000.00   //剩余额度
 	 *  	accountCredit:5000.00 //赊销欠款
 	 *  }
 	 * today:{
