@@ -14,7 +14,7 @@
 		* [本月关注](./money3.md)
 		* [近三月预收款和总打款对比](./money4.md)
 	* [销量统计API]()
-	* [存量统计API]()
+	* [存量分布API]()
 		* [选择商品](./stockdistribution1.md)
 		* [库存分布](./stockdistribution2.md)
 	* [销量排行API]()
